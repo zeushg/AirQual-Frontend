@@ -23,7 +23,7 @@ en el navegador pegar la siguiente url:
 
 http://localhost:3001
 
-![frontend](https://github.com/zeushg/AirQual-Frontend/blob/main/image.png)
+![frontend](image.png)
 
-![front end1](https://github.com/zeushg/AirQual-Frontend/blob/main/image-1.png)
+![front end1](image-1.png)
 
