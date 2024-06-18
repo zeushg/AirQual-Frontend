@@ -24,7 +24,7 @@ en el navegador pegar la siguiente url:
 
 http://localhost:3001
 
-![frontend](image.png)
+![frontend](AirQual-Frontend/image.png)
 
-![front end1](image-1.png)
+![front end1](AirQual-Frontend/image-1.png)
 
