@@ -8,10 +8,7 @@ Ejecutar el siguiente comando server:
 ```bash
 npm run dev
 
-
-Se deberia ver esta salida:
-
-npm run dev
+obtenemos el siguiente print: 
 
 > 2022-front-react@0.1.0 dev
 > next dev
