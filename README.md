@@ -1,8 +1,5 @@
 # AirQual-Frontend
 
-
-## Getting Started
-
 Ejecutar el siguiente comando server:
 
 ```bash
@@ -23,7 +20,9 @@ en el navegador pegar la siguiente url:
 
 http://localhost:3001
 
+
+```
+
 ![frontend](image.png)
 
 ![front end1](image-1.png)
-
